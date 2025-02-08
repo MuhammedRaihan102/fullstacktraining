@@ -1,0 +1,12 @@
+.external{
+    background-color: beige;
+    height: 600px;
+    width: 400px;
+}
+#idselector{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1rem;
+}
+ol{
+    margin-top: 250px;
+}
